@@ -1,0 +1,65 @@
+<resources>
+    <string name="app_name">EduBuddy</string>
+
+    <!--Field Names-->
+    <string name="personal_details">Personal Details</string>
+    <string name="professional_details">Professional Details</string>
+    <string name="educational_details">Educational Details</string>
+
+    <string name="name">Full Name</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="mobile">Mobile</string>
+    <string name="location">Location</string>
+    <string name="links">Links</string>
+    <string name="add_skill">Add Skill</string>
+    <string name="skills">Skills</string>
+    <string name="org">Organization</string>
+    <string name="desig">Designation</string>
+    <string name="currently_work">Currently work here</string>
+    <string name="mmm">Month</string>
+    <string name="yyyy">Year</string>
+    <string name="organization">Organization</string>
+    <string name="degree">Choose Field</string>
+    <string name="start_year">Start Year</string>
+    <string name="end_year">End Year</string>
+    <string name="start">Start Date</string>
+    <string name="end">End Date</string>
+    <string name="add_certificate">Add your Certificate</string>
+    <string name="welcome_message">The Sparks Foundation welcomes you!</string>
+    <string name="login_or_signup_message">Please login or signup to proceed!</string>
+
+    <string name="edu">Education</string>
+    <string name="prof">Professional</string>
+    <string name="achiev">Achievements</string>
+
+    <!--Actions-->
+    <string name="action_save">Save</string>
+    <string name="action_cancel">Cancel</string>
+    <string name="action_add">Add</string>
+    <string name="action_update">Update</string>
+    <string name="action_delete">Delete</string>
+    <string name="action_continue">Continue</string>
+    <string name="action_login">Login</string>
+    <string name="action_signup">Sign Up</string>
+    <string name="action_logout">Logout</string>
+    <string name="action_delete_account">Delete Account</string>
+    <string name="action_update_details">Update Details</string>
+
+    <string name="toast_error">ERROR</string>
+    <string name="toast_add_success">Add user successful!</string>
+    <string name="toast_add_failed">Add user failed!</string>
+    <string name="toast_update_success">Update user successful!</string>
+    <string name="toast_update_failed">Update user failed!</string>
+    <string name="toast_delete_success">Delete user successful!</string>
+    <string name="toast_delete_failed">Delete user failed!</string>
+    <string name="toast_login_successful">Login Successful!</string>
+    <string name="toast_login_failed">Authentication Failed!</string>
+    <string name="toast_no_such_user">Enter a valid Email and password</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+
+</resources>
+
